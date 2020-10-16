@@ -1,5 +1,8 @@
 # restaurant template
 
+This is a food delivery template ui appplication on flutter.
+We are supporting simple user interface and full features.
+
 ## Splash Screen
 ![alt text](https://github.com/BlackGold-1989/FoodDelivery-Flutter/blob/1.0/restaurant/splash.JPEG?raw=true "Home")
 
