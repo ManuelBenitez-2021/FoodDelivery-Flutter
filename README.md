@@ -1,5 +1,6 @@
 # restaurant template
 
+## Splash Screen
 ![alt text](https://github.com/BlackGold-1989/FoodDelivery-Flutter/blob/1.0/restaurant/splash.JPEG?raw=true "Home")
 ![alt text](https://github.com/BlackGold-1989/FoodDelivery-Flutter/blob/1.0/restaurant/login.JPEG?raw=true "Home")
 ![alt text](https://github.com/BlackGold-1989/FoodDelivery-Flutter/blob/1.0/restaurant/register.JPEG?raw=true "Home")
